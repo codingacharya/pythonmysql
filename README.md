@@ -11,8 +11,8 @@ host: localhost
 
 git clone https://github.com/codingacharya/pythonmysql.git
 
-cd s3
+cd pythonmysql
 
 pip install streamlit mysql-connector-python pandas plotly matplotlib
 
-streamlit run s3.py
+streamlit run s1.py
