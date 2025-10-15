@@ -12,7 +12,7 @@ def create_connection():
         host="localhost",       # XAMPP MySQL host
         user="root",            # Default XAMPP user
         password="",            # Leave empty if no password
-        database="s3"    # Your database name
+        database="s1_db"    # Your database name
     )
 
 # -----------------------------
@@ -90,3 +90,4 @@ elif chart_type == "Histogram":
 # -----------------------------
 st.subheader("📋 Data Summary")
 st.write(filtered_df.describe())
+
