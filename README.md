@@ -9,7 +9,7 @@ password:
 host: localhost
 
 
-git clone 
+git clone https://github.com/codingacharya/pythonmysql.git
 
 cd s3
 
