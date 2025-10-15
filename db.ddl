@@ -1,3 +1,4 @@
+CREATE DATABASE s1_sb;
 
 USE s1_db;
 
@@ -18,3 +19,4 @@ INSERT INTO sales_data (product_name, category, quantity, price, sale_date) VALU
 ('Shoes', 'Clothing', 15, 2000, '2025-04-10'),
 ('Book', 'Stationery', 30, 300, '2025-05-22'),
 ('Pen','Stationery',10,100,'2025-10-20');
+
